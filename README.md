@@ -1,4 +1,4 @@
-Architecture Decision Record for Scenario 2: Social Networking Mobile App
+**Architecture Decision Record for Scenario 2: Social Networking Mobile App**
 
 Team members: Duc Nguyen, Matthew Yackel
 
